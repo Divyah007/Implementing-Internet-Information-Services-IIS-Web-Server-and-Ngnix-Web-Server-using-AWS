@@ -1,0 +1,33 @@
+WINDOWS
+To Install IIS web server using Powershell ISE, type
+----------------------------------------------------------------------------------------
+Install-WindowsFeature -name Web-Server -IncludeManagementTools
+-----------------------------------------------------------------------------------------
+
+
+
+UBUNTU
+To Install ngnix web server using bash, type
+----------------------------------------------------------------------------------------------
+sudo apt-get -y update
+sudo apt-get -y install nginx
+----------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
